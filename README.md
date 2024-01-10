@@ -1,8 +1,8 @@
 Untuk Menjalankan Program Scrapping ini.
 Pertama - tama anda harus melakukan install PIP di  Command Prompt 
-pip install bs4
-pip install csv
-pip install requests
+1. pip install bs4
+2. pip install csv
+3. pip install requests
 
 
 Code ini Untuk Memenuhi Tugas UAS kami :
